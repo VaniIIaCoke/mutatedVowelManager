@@ -1,0 +1,9 @@
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\bin\Debug\mutatedVowelManager.exe.config
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\bin\Debug\mutatedVowelManager.exe
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\bin\Debug\mutatedVowelManager.pdb
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.csprojResolveAssemblyReference.cache
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.Manager.resources
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.Properties.Resources.resources
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.csproj.GenerateResource.Cache
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.exe
+c:\users\goggo\documents\visual studio 2015\Projects\mutatedVowelManager\mutatedVowelManager\obj\Debug\mutatedVowelManager.pdb
